@@ -1,0 +1,27 @@
+# Carpetas temporales y de configuración de Visual Studio
+.vs
+[Dd]ebug
+[Rr]elease
+x64
+x86
+build
+
+# Archivos de base de datos de código gigantescos
+.db
+.opendb
+.suo
+.user
+.userosscache
+.sln.docstates
+
+# Archivos de compilación precompilados y binarios
+.obj
+.pch
+.ipch
+.iobj
+.ipdb
+.log
+.tlog
+.ilk
+.pdb
+.exe
